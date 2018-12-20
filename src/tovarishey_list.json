@@ -1,0 +1,32 @@
+{
+    "tovarishy": [
+      {
+        "FirstName": "MAFIOZNIK",
+        "Note": "VOR V ZAKONE",
+        "Address": "ul. Admiralteyskaya, Moskow",
+        "PhoneNumber": "8-999-999-99-99",
+        "Email": "mafioznik@gmail.com"
+      },
+      {
+        "FirstName": "Albus Perseval Dumbledor",
+        "Note": "Gay",
+        "Address": "ul. Vpadina kakaya-to, Wells",
+        "PhoneNumber": "8-111-111-11-11",
+        "Email": "velikiy_mag__number_1@gmail.com"
+      },
+      {
+        "FirstName": "Bot Vladislav",
+        "Note": "Byot pevim",
+        "Address": "ul. Admiralteyskaya, sent-petersburg",
+        "PhoneNumber": "8-000-000-00-00",
+        "Email": "vvp@gmail.com"
+      },
+      {
+        "FirstName": "Bear the Great",
+        "Note": "Denyak net, no vi derzhites",
+        "Address": "ul. Admiralteyskaya, sent-petersburg",
+        "PhoneNumber": "8-000-000-00-00",
+        "Email": "BTG@gmail.com"
+      }
+    ]
+  } 
